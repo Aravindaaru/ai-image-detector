@@ -32,9 +32,6 @@ st.markdown("""
         width: 100%;
         font-size: 18px;
     }
-    .stFileUploader {
-        text-align: center;
-    }
     </style>
 """, unsafe_allow_html=True)
 
